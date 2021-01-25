@@ -1,0 +1,3 @@
+# OpenBarriers reset hourly functions
+# m h  dom mon dow   command
+*/60 * * * * curl www.openbarriers.co.uk/reset/abbeyWood.php

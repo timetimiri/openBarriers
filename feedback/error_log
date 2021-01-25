@@ -1,0 +1,39 @@
+[24-Jan-2021 18:02:17 America/New_York] PHP Warning:  require_once(../htmlpurifier-4.12.0/library/HTMLPurifier.auto.php): failed to open stream: No such file or directory in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 3
+[24-Jan-2021 18:02:17 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../htmlpurifier-4.12.0/library/HTMLPurifier.auto.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 3
+[24-Jan-2021 18:25:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::bindParam() in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 7
+[24-Jan-2021 18:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::bindParam() in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 7
+[24-Jan-2021 18:27:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::bindParam() in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 7
+[24-Jan-2021 18:32:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::bindParam() in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 7
+[24-Jan-2021 18:32:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::bindParam() in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 7
+[24-Jan-2021 18:33:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::bindParam() in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 7
+[24-Jan-2021 18:37:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::bindParam() in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 7
+[24-Jan-2021 18:43:46 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 5
+[24-Jan-2021 18:44:02 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 5
+[24-Jan-2021 18:44:22 America/New_York] PHP Notice:  Undefined index: feedback in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 4
+[24-Jan-2021 18:44:22 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 5
+[24-Jan-2021 18:44:46 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 5
+[24-Jan-2021 18:45:29 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 5
+[24-Jan-2021 18:45:33 America/New_York] PHP Notice:  Undefined index: feedback in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 4
+[24-Jan-2021 18:45:33 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 5
+[24-Jan-2021 18:47:05 America/New_York] PHP Notice:  Undefined index: feedback in /home/timennew/openbarriers.co.uk/feedback/addFeedback.php on line 4
